@@ -1,10 +1,10 @@
-package Testing2DGame.object;
+package com.example.Testing2DGame.object;
 
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
 import java.awt.image.BufferedImage;
 
-import Testing2DGame.Main.GamePanel;
+import com.example.Testing2DGame.Main.GamePanel;
 
 public class SuperObject 
 {

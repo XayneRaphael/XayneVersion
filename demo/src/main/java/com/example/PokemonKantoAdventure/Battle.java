@@ -1,5 +1,4 @@
-package PokemonKantoAdventure;
-
+package com.example.PokemonKantoAdventure;
 import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
@@ -44,7 +43,7 @@ public class Battle {
         System.out.println("You are about to challenge " + opponent.getGymLeader() + "!");
         System.out.println("Prepare yourself for an intense battle!");
         System.out.println("Your Pokemon:");
-        System.out.printf("%s - Level: %d\n", playersPokemon.getFirst().getName(), playersPokemon.getFirst().getLevel());
+        System.out.printf("%s - Level: %d\n", playersPokemon.get(0).getName(), playersPokemon.get(0).getLevel());
         System.out.println("+--------------------------------------------------------------------------------------------+");
 
 

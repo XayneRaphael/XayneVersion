@@ -1,6 +1,4 @@
-package PokemonKantoAdventure;
-
-import java.util.LinkedList;
+package com.example.PokemonKantoAdventure;
 
 public class KantoMap {
 

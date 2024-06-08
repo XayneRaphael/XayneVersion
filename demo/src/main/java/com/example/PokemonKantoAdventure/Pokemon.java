@@ -1,6 +1,4 @@
-package PokemonKantoAdventure;
-
-import java.sql.SQLOutput;
+package com.example.PokemonKantoAdventure;
 
 public class Pokemon {
 

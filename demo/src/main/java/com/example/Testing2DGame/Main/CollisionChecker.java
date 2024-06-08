@@ -1,6 +1,6 @@
-package Testing2DGame.Main;
+package com.example.Testing2DGame.Main;
 
-import Testing2DGame.Entity.Entity;
+import com.example.Testing2DGame.Entity.Entity;
 
 public class CollisionChecker 
 {

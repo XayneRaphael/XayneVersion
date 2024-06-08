@@ -1,11 +1,5 @@
-package PokemonKantoAdventure;
+package com.example.PokemonKantoAdventure;
 
-import PokemonKantoAdventure.CityManager;
-import PokemonKantoAdventure.GameFlow;
-import PokemonKantoAdventure.Player;
-
-import javax.sound.midi.spi.SoundbankReader;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {

@@ -1,9 +1,4 @@
-package PokemonKantoAdventure;
-
-import PokemonKantoAdventure.Battle;
-import PokemonKantoAdventure.CityManager;
-import PokemonKantoAdventure.Player;
-import PokemonKantoAdventure.Pokemon;
+package com.example.PokemonKantoAdventure;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -192,7 +187,7 @@ public class GameFlow {
 
         int i = 0;
         try {
-            Scanner pokemonlist = new Scanner(new FileInputStream("D:\\DEGREE\\1ST YEAR\\intellij\\POKEMONDRAFT\\src\\POKEMONLIST"));
+            Scanner pokemonlist = new Scanner(new FileInputStream("demo\\src\\main\\java\\com\\example\\PokemonKantoAdventure\\POKEMONLIST"));
             //FileReader pokemonlist = new FileReader ("D:\\DEGREE\\1ST YEAR\\net code\\DUITRIA\\LOCATIONS.txt");
 
             while (pokemonlist.hasNextLine()) {

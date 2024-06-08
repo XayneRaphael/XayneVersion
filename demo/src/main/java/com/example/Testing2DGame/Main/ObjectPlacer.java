@@ -1,7 +1,7 @@
-package Testing2DGame.Main;
+package com.example.Testing2DGame.Main;
 
-import Testing2DGame.object.ObjectDoor;
-import Testing2DGame.object.ObjectKey;
+import com.example.Testing2DGame.object.ObjectDoor;
+import com.example.Testing2DGame.object.ObjectKey;
 
 public class ObjectPlacer 
 {

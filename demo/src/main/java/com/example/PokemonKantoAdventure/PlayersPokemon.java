@@ -1,6 +1,4 @@
-package PokemonKantoAdventure;
-
-import PokemonKantoAdventure.Pokemon;
+package com.example.PokemonKantoAdventure;
 
 public class PlayersPokemon {
 

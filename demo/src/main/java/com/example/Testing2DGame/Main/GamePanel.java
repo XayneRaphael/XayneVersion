@@ -1,13 +1,13 @@
-package Testing2DGame.Main;
+package com.example.Testing2DGame.Main;
 
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import javax.swing.JPanel;
-import Testing2DGame.Entity.Player;
-import Testing2DGame.Tile.TileManager;
-import Testing2DGame.object.SuperObject;
+import com.example.Testing2DGame.Entity.Player;
+import com.example.Testing2DGame.Tile.TileManager;
+import com.example.Testing2DGame.object.SuperObject;
 
 public class GamePanel extends JPanel implements Runnable 
 {

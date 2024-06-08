@@ -1,4 +1,4 @@
-package Testing2DGame.Main;
+package com.example.Testing2DGame.Main;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package PokemonKantoAdventure;
+package com.example.PokemonKantoAdventure;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,7 @@ public class FightWildPokemon {
         System.out.println("You are about to fight random wild Pokemon from " + currentLocation.getName() + "!");
         System.out.println("Prepare yourself for an intense battle with "+ currentLocation.getWildPokemon().get(index).getName()+  "!");
         System.out.println("\nYour Pokemon:");
-        System.out.printf("%s - Level: %d\n", player.getPokemon().getFirst().getName(), player.getPokemon().getFirst().getLevel());
+        System.out.printf("%s - Level: %d\n", player.getPokemon().get(0).getName(), player.getPokemon().get(0).getLevel());
         System.out.println("+--------------------------------------------------------------------------------------------+");
 
         int k=0;

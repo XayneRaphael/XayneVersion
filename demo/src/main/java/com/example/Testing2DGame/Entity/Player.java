@@ -1,19 +1,17 @@
-package Testing2DGame.Entity;
+package com.example.Testing2DGame.Entity;
 
-import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
-import java.util.List;
 import java.util.Scanner;
 
 import javax.imageio.ImageIO;
 
-import Testing2DGame.Main.CityManager;
-import Testing2DGame.Main.GamePanel;
-import Testing2DGame.Main.KeyHandler;
-import Testing2DGame.Main.MazeGame;
+import com.example.Testing2DGame.Main.CityManager;
+import com.example.Testing2DGame.Main.GamePanel;
+import com.example.Testing2DGame.Main.KeyHandler;
+import com.example.Testing2DGame.Main.MazeGame;
 
 public class Player extends Entity
 {

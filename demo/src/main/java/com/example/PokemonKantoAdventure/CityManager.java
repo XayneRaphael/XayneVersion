@@ -1,6 +1,4 @@
-package PokemonKantoAdventure;
-
-import PokemonKantoAdventure.City;
+package com.example.PokemonKantoAdventure;
 
 import java.util.Arrays;
 import java.util.HashMap;

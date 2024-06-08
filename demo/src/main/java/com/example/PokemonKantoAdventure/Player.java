@@ -1,9 +1,4 @@
-package PokemonKantoAdventure;
-
-import PokemonKantoAdventure.City;
-import PokemonKantoAdventure.CityManager;
-import PokemonKantoAdventure.Pokemon;
-
+package com.example.PokemonKantoAdventure;
 import java.util.ArrayList;
 import java.util.List;
 

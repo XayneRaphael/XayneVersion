@@ -1,4 +1,4 @@
-package PokemonKantoAdventure;
+package com.example.PokemonKantoAdventure;
 //package pokemon_assignment;
 
 

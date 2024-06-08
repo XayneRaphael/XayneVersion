@@ -1,4 +1,4 @@
-package PokemonKantoAdventure;
+package com.example.PokemonKantoAdventure;
 
 import javax.swing.plaf.FontUIResource;
 import java.util.ArrayList;

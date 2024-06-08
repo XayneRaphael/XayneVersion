@@ -1,4 +1,4 @@
-package PokemonKantoAdventure;//package assigment;
+package com.example.PokemonKantoAdventure;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Testing2DGame.Tile;
+package com.example.Testing2DGame.Tile;
 
 import java.awt.image.BufferedImage;
 

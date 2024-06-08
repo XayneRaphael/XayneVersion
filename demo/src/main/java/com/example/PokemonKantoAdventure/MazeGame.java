@@ -1,4 +1,4 @@
-package PokemonKantoAdventure;//package PokemonKantoRegion;
+package com.example.PokemonKantoAdventure;
 
 import java.util.Stack;
 

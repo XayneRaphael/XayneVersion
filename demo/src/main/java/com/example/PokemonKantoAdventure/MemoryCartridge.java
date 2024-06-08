@@ -1,17 +1,9 @@
-package PokemonKantoAdventure;/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-//package pokemon_assignment;
+package com.example.PokemonKantoAdventure;
 
-/**
- *
- * @author user
- */
 
-import PokemonKantoAdventure.Game;
-import PokemonKantoAdventure.Player;
-import PokemonKantoAdventure.SaveGameManager;
+import com.example.PokemonKantoAdventure.Game;
+import com.example.PokemonKantoAdventure.Player;
+import com.example.PokemonKantoAdventure.SaveGameManager;
 import org.json.simple.JSONObject;
 
 import javax.sound.midi.Soundbank;

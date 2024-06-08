@@ -1,4 +1,4 @@
-package Testing2DGame.Entity;
+package com.example.Testing2DGame.Entity;
 
 import java.awt.Rectangle;
 import java.awt.image.BufferedImage;

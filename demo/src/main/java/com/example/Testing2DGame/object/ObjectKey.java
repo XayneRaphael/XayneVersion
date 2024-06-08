@@ -1,4 +1,4 @@
-package Testing2DGame.object;
+package com.example.Testing2DGame.object;
 
 import java.io.IOException;
 

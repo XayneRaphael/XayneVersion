@@ -1,4 +1,4 @@
-package Testing2DGame.Tile;
+package com.example.Testing2DGame.Tile;
 
 import java.awt.Graphics2D;
 import java.io.BufferedReader;
@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 
 import javax.imageio.ImageIO;
 
-import Testing2DGame.Main.GamePanel;
+import com.example.Testing2DGame.Main.GamePanel;
 
 public class TileManager
 {
